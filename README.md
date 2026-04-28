@@ -1,106 +1,66 @@
-# 👋 Hi, I’m Frank – Senior Frontend Engineer (Freelance)
+# Hi, I'm Frank — Senior Frontend Engineer
 
-I’m a **Senior Frontend Engineer** based in Wuppertal, Germany, focused on
-building and modernizing **complex B2B web applications** with
-**Angular, TypeScript, and modern frontend tooling**.
+I'm a **Senior Frontend Engineer** based in Wuppertal, Germany, with 12+ years building and modernizing complex B2B web applications in **Angular, TypeScript, Vue, and React**. I'm open to both **full-time positions** and **freelance contracts** (B2B, remote).
 
-I work as a **remote freelancer** with product teams in:
-
-- **Logistics / Supply Chain**
-- **Travel / Booking**
-- **E‑commerce & Marketplaces**
-- **B2B SaaS dashboards & internal tools**
+My career has been shaped by adopting emerging technologies early — from applying genetic algorithms to generative sculpture in the late 1980s (SIGGRAPH, IEEE) and pioneering digital media curricula, through large-scale Angular migrations, to building production SaaS with AI-assisted workflows today.
 
 ---
 
-## 🔧 What I do
+## What I do
 
-- **Greenfield frontends** for SaaS and B2B platforms (Angular‑first, open to Vue/React)
-- **Migrations** from legacy UIs to modern Angular/TypeScript
-- **Frontend architecture & state management** (RxJS, NgRx, NX)
-- **Performance & UX improvements** for complex dashboards and workflows
-- **Testing & CI‑friendly setups** (Playwright, Cypress, Jest/Vitest)
-
-I’m used to joining existing teams, cleaning up real‑world codebases, and
-delivering features in **distributed, remote‑first environments**.
+- **Greenfield frontends** for SaaS and B2B platforms (Angular-first, open to Vue/React)
+- **Migrations** from legacy UIs to modern Angular/TypeScript, including large, business-critical systems
+- **Frontend architecture** — RxJS, NgRx, Nx, Signals, modular component-driven design
+- **Performance and UX** — data-heavy dashboards, real-time views, Core Web Vitals
+- **Testing and CI** — Playwright, Cypress, Vitest, Jest, quality gates
+- **Mentoring** — 20+ years of code reviews, pair programming, and curriculum development
 
 ---
 
-## 🧩 Selected experience (high level)
+## Selected experience
 
-- **Logistics SaaS platform (Angular)** – primary frontend engineer for a
-  Europe‑wide logistics application, working on complex forms, dashboards,
-  and integrations.
-- **Travel booking migration (Angular)** – led migration of a legacy
-  desktop booking system to a modern Angular web app used by travel
-  agencies.
-- **E‑commerce marketplace (Vue/Nuxt)** – implemented and optimized
-  high‑traffic product description & review flows for a large marketplace.
-
-(Details are on my website and LinkedIn.)
+- **Logistics SaaS (Angular)** — Primary frontend engineer for a pallet exchange platform serving 23 countries across Europe. Led the v6 → v17 migration, delivered real-time notifications and API integrations contributing to an 80% increase in deployment frequency. *(PAKi Logistics)*
+- **Travel booking migration (Angular)** — Led the 7-year modernization of a legacy Flex/AIR booking platform into Angular, processing thousands of matches per month for hundreds of travel agencies including TUI. Improved booking flow performance by 30%. *(travel-IT / Travelport)*
+- **E-commerce marketplace (Vue/Nuxt)** — Built and optimized high-traffic product description and review flows, contributing to a 15% increase in sales conversion. *(Kaufland e-Commerce)*
+- **Real-time observability SaaS (Angular v21)** — Founded Cavalieri Align and built MQTT-Align, a monitoring platform for event-driven data pipelines. MVP vertical slice delivered in 6 weeks. *(Cavalieri Align)*
 
 ---
 
-## 🧪 MOD‑W – Moderated AI Development Workflow
+## MOD-W — Moderated AI Development Workflow
 
-I maintain **MOD‑W (Moderated AI Development Workflow)**, a
-role‑driven, document‑centered workflow for **AI‑assisted software
-development**.
+I created [**MOD-W**](https://github.com/fpmcguire/moderated-ai-development-workflow), an open-source methodology for using AI tools in real codebases without sacrificing quality or engineering discipline. It's role-driven and document-centered: every change flows through small, reviewable, traceable steps with human approval at every gate.
 
-It separates product, technical, and implementation decisions across
-distinct roles and enforces cross‑validation between multiple AI agents
-and a human moderator. The goal is:
+MOD-W separates product, technical, and implementation decisions across distinct roles and enforces cross-validation between multiple AI agents and models — no single agent both plans and implements, and no single agent both implements and reviews.
 
-- **Small, reviewable, traceable increments**
-- **Safer use of AI in production codebases**
-- **Clear acceptance criteria before code is merged**
-
-You can read more in the `MOD-W.md` file in the repo and the public
-reference on my website.
+I use MOD-W across all my personal projects, including MQTT-Align, Prismatic, and the AGV Fleet Management Simulator. Viable coding, not vibe coding.
 
 ---
 
-## 🛠 Tech stack & tools
+## Tech stack
 
-**Frontend**
+**Frontend:** Angular (v6–v21), Vue 3, Nuxt 3, React, RxJS, NgRx, Nx, Chart.js, Three.js, Tailwind, SCSS
 
-- Angular (v6–v21), TypeScript
-- Vue 3 / Nuxt 3
-- React (for selected projects)
-- RxJS, NgRx, NX
-- HTML5, CSS/SCSS, Tailwind, component‑driven UI
+**Backend & APIs:** RESTful APIs, GraphQL, Node.js, Supabase (PostgreSQL), MQTT, WebSockets
 
-**Architecture & APIs**
+**Testing:** Playwright, Cypress, Vitest, Jest, ESLint, Prettier
 
-- SPA architecture, state management patterns
-- RESTful APIs, GraphQL
-- Performance tuning, UX for complex B2B apps
+**DevOps:** Git, GitHub, GitLab, CI/CD (Jenkins, GitHub Actions), Docker, Kubernetes, Grafana, Vite, Webpack
 
-**Testing & Tooling**
-
-- Playwright, Cypress, Jest, Vitest
-- GitHub / GitLab, CI/CD pipelines
-- Docker‑based development and deployment workflows
+**AI-assisted development:** MOD-W, Spec-Driven Development (SDD), Claude Code, GitHub Copilot, OpenAI Codex
 
 ---
 
-## 🤝 How I work
+## Availability
 
-- Remote‑first, async‑friendly
-- Used to Agile/Scrum/Kanban, code reviews, and clear technical docs
-- Comfortable mentoring developers and improving frontend practices
-- Prefer **medium‑ to long‑term** collaborations (3–12 months)
+- **Full-time:** Available immediately for remote or hybrid roles in Germany/EU
+- **Freelance:** B2B contracts, remote, 5 days/week, 3–12+ months, EUR invoice
 
 ---
 
-## 📬 Let’s get in touch
+## Get in touch
 
-I’m **available for remote freelance frontend projects** (B2B contract)
-with teams in Germany, the EU, and the UK.
+- [frank-mcguire.com](https://frank-mcguire.com)
+- [LinkedIn](https://www.linkedin.com/in/frank-mcguire-06b6ba1/)
+- [fpmcguire@gmail.com](mailto:fpmcguire@gmail.com)
 
-- 🌐 Website: [frank-mcguire.com](https://frank-mcguire.com/)
-- 💼 LinkedIn: [your LinkedIn URL]
-- 📧 Email: [your email]
-
-If you’re working on a logistics, travel, e‑commerce, or B2B SaaS product
-and need extra senior frontend capacity, I’d be happy to talk.
+If you're building a B2B SaaS product and need senior frontend capacity — whether for a permanent team or a contract engagement — I'm happy to have a short call.
