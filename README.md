@@ -22,7 +22,7 @@ My career has been shaped by adopting emerging technologies early — from apply
 - **Logistics SaaS (Angular)** — Primary frontend engineer for a pallet exchange platform serving 23 countries across Europe. Led the v6 → v17 migration prototype, delivered real-time notifications and API integrations contributing to an increase in deployment frequency. *(PAKi Logistics)*
 - **Travel booking migration (Angular)** — Led the modernization of a legacy Flex/AIR booking platform into Angular, processing thousands of matches per month for hundreds of travel agencies, including TUI. Improved booking flow performance. *(travel-IT / Travelport)*
 - **E-commerce marketplace (Vue/Nuxt)** — Built and optimized high-traffic product description and review flows, contributing to an increase in sales conversion. *(Kaufland e-Commerce)*
-- **Real-time observability SaaS (Angular v21)** — Founded Cavalieri Align and built MQTT-Align, a monitoring platform for event-driven data pipelines. Full multi-module platform with an MVP vertical slice delivered in 3 weeks. *(Cavalieri Align)*
+- **Real-time observability SaaS (Angular v21, Nx)** — Founded Cavalieri Align and built MQTT-Align, a monitoring platform for event-driven data pipelines. Full multi-module platform with an MVP vertical slice delivered in 3 weeks. *(Cavalieri Align)*
 
 ---
 
