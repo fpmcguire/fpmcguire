@@ -28,7 +28,7 @@ My career has been shaped by adopting emerging technologies early — from apply
 
 ## MOD-W — Moderated AI Development Workflow
 
-I created [**MOD-W**](https://github.com/fpmcguire/moderated-ai-development-workflow), an open-source methodology for using AI tools in real codebases without sacrificing quality or engineering discipline. It's role-driven and document-centered: every change flows through small, reviewable, traceable steps with human approval at every gate.
+I created [**MOD-W**](https://github.com/fpmcguire/mod-w), an open-source methodology for using AI tools in real codebases without sacrificing quality or engineering discipline. It's role-driven and document-centered: every change flows through small, reviewable, traceable steps with human approval at every gate.
 
 MOD-W separates product, technical, and implementation decisions across distinct roles and enforces cross-validation between multiple AI agents and models — no single agent both plans and implements, and no single agent both implements and reviews.
 
