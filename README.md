@@ -1,6 +1,6 @@
 # Hi, I'm Frank — Senior Frontend Engineer
 
-I'm a **Senior Frontend Engineer** based in Wuppertal, Germany, with 12+ years building modern web applications, backed by a longer career in software, digital systems, and technical education. I specialize in **Angular and TypeScript**, with additional production experience in **Vue and React**. I'm open to both **full-time positions** and **freelance contracts** (B2B, remote).
+I'm a **Senior Frontend Engineer** based in Wuppertal, Germany, with 12+ years building modern web applications, backed by a 20+ year career in software, digital systems, and technical education. I specialize in **Angular and TypeScript**, with additional production experience in **Vue and React**. I'm open to both **full-time positions** and **freelance contracts** (B2B, remote).
 
 My career has been shaped by adopting emerging technologies early — from applying genetic algorithms to generative sculpture in the late 1980s (SIGGRAPH, IEEE) and pioneering digital media curricula, through large-scale frontend migrations, to building SaaS platforms with AI-assisted development workflows today.
 
